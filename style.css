@@ -1,0 +1,48 @@
+html {
+    background-color: rgb(247, 255, 162);
+}
+
+h1 {
+    color: rgb(142, 90, 17);
+    font-family:
+}
+
+p,
+ul,
+ol {
+    font-size: 20px;
+}
+
+h2 {
+    background-color: rgb(142, 90, 17);
+    color: antiquewhite;
+    text-align: center;
+}
+
+h2 a {
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+a {
+    color: black;
+}
+
+.home-img {
+    width: 500px;
+    height: auto;
+}
+
+.r-img {
+    width: auto;
+    height: 300px;
+}
+
+.home-link {
+    font-size: 20px;
+}
+
+
+div {
+    text-align: center;
+}
